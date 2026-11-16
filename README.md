@@ -6,7 +6,7 @@ Python data cleaning + PostgreSQL analysis + interactive Tableau dashboards expl
 
 ### 🏎️ F1 Performance Overview
 
-📊 [View F1 Performance Overview on Tableau Public](https://public.tableau.com/app/profile/teodora.maksimovic/viz/Formula1PerformanceAnalytics20142024/DriverPerformanceComparisonDashboard)
+📊 [View F1 Performance Overview on Tableau Public](https://public.tableau.com/app/profile/teodora.maksimovic/viz/Formula1PerformanceAnalytics20142024/F1PerformanceOverviewDashboard)
 
 ![F1 Performance Overview](<images/F1 Performance Overview Dashboard.png>)
 
